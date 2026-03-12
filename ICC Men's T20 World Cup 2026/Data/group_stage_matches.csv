@@ -1,0 +1,41 @@
+MatchID,Match_Number,Stage,Group,Team1,Team2,Venue,City,Date,Winner,Team1_Score,Team1_Wickets,Team1_Overs,Team2_Score,Team2_Wickets,Team2_Overs,Margin,Margin_Type,Toss_Winner,Toss_Decision,Player_of_Match
+1,1,Group Stage,A,Netherlands,Pakistan,Sinhalese Sports Club Cricket Ground,Colombo,07-Feb-26,Pakistan,147,10,19.5,148,7,19.3,3,wickets,Pakistan,field,Shadab Khan
+2,2,Group Stage,C,West Indies,Scotland,R. Premadasa Stadium,Colombo,07-Feb-26,West Indies,161,9,20,132,8,20,29,runs,United States of America,field,Evin Lewis
+3,3,Group Stage,A,India,United States of America,Wankhede Stadium,Mumbai,07-Feb-26,India,161,9,20,132,8,20,29,runs,United States of America,field,Suryakumar Yadav
+4,4,Group Stage,D,Afghanistan,New Zealand,M. A. Chidambaram Stadium,Chennai,08-Feb-26,New Zealand,156,8,20,159,3,18,7,wickets,Netherlands,field,Rachin Ravindra
+5,5,Group Stage,C,England,Nepal,Arun Jaitley Stadium,Delhi,08-Feb-26,England,190,9,20,158,8,20,32,runs,United States of America,field,Will Jacks
+6,6,Group Stage,B,Sri Lanka,Ireland,Pallekele International Cricket Stadium,Kandy,08-Feb-26,Sri Lanka,209,9,20,116,10,18.2,93,runs,Namibia,field,Dasun Shanaka
+7,7,Group Stage,C,Scotland,Italy,R. Premadasa Stadium,Colombo,09-Feb-26,Scotland,185,6,20,120,10,17.1,65,runs,Scotland,bat,Michael Jones
+8,8,Group Stage,B,Oman,Zimbabwe,Sinhalese Sports Club Cricket Ground,Colombo,09-Feb-26,Zimbabwe,150,7,20,153,4,19.2,6,wickets,Oman,bat,Sikandar Raza
+9,9,Group Stage,D,South Africa,Canada,Arun Jaitley Stadium,Delhi,09-Feb-26,South Africa,195,5,20,134,9,20,61,runs,South Africa,bat,Aiden Markram
+10,10,Group Stage,A,Namibia,Netherlands,Narendra Modi Stadium,Ahmedabad,10-Feb-26,Netherlands,156,8,20,159,3,18,7,wickets,Netherlands,field,Bas de Leede
+11,11,Group Stage,D,United Arab Emirates,New Zealand,M. A. Chidambaram Stadium,Chennai,10-Feb-26,New Zealand,160,6,20,161,2,17.4,8,wickets,New Zealand,field,Tim Seifert
+12,12,Group Stage,A,Pakistan,United States of America,Pallekele International Cricket Stadium,Kandy,10-Feb-26,Pakistan,190,9,20,158,8,20,32,runs,United States of America,field,Shaheen Afridi
+13,13,Group Stage,D,South Africa,Afghanistan,Wankhede Stadium,Mumbai,11-Feb-26,South Africa,175,6,20,145,9,20,30,runs,South Africa,bat,Lungi Ngidi
+14,14,Group Stage,B,Australia,Ireland,Narendra Modi Stadium,Ahmedabad,11-Feb-26,Australia,188,4,20,135,8,20,53,runs,Australia,bat,Travis Head
+15,15,Group Stage,C,West Indies,England,Eden Gardens,Kolkata,11-Feb-26,England,165,8,20,166,4,19.1,6,wickets,West Indies,field,Jos Buttler
+16,16,Group Stage,B,Sri Lanka,Oman,Arun Jaitley Stadium,Delhi,12-Feb-26,Sri Lanka,200,5,20,120,9,20,80,runs,Sri Lanka,bat,Kusal Perera
+17,17,Group Stage,C,Nepal,Italy,Sinhalese Sports Club Cricket Ground,Colombo,12-Feb-26,Nepal,155,7,20,130,10,18.4,25,runs,Nepal,bat,Kushal Malla
+18,18,Group Stage,A,India,Namibia,M. A. Chidambaram Stadium,Chennai,12-Feb-26,India,209,9,20,116,10,18.2,93,runs,Namibia,field,Ishan Kishan
+19,19,Group Stage,B,Zimbabwe,Australia,Pallekele International Cricket Stadium,Kandy,13-Feb-26,Australia,182,6,20,155,9,20,27,runs,Zimbabwe,field,Mitchell Marsh
+20,20,Group Stage,D,Canada,United Arab Emirates,Wankhede Stadium,Mumbai,13-Feb-26,Canada,165,6,20,152,9,20,13,runs,Canada,bat,Yuvraj Samra
+21,21,Group Stage,A,United States of America,Netherlands,Eden Gardens,Kolkata,13-Feb-26,United States of America,170,5,20,145,10,19.3,25,runs,United States of America,bat,Monank Patel
+22,22,Group Stage,B,Ireland,Oman,Narendra Modi Stadium,Ahmedabad,14-Feb-26,Ireland,172,4,20,145,8,20,27,runs,Ireland,bat,Lorcan Tucker
+23,23,Group Stage,C,Scotland,England,M. A. Chidambaram Stadium,Chennai,14-Feb-26,England,178,5,20,132,10,19.1,46,runs,Scotland,field,Sam Curran
+24,24,Group Stage,D,New Zealand,South Africa,Pallekele International Cricket Stadium,Kandy,14-Feb-26,New Zealand,185,4,20,165,8,20,20,runs,New Zealand,bat,Glenn Phillips
+25,25,Group Stage,B,Zimbabwe,Sri Lanka,Arun Jaitley Stadium,Delhi,15-Feb-26,Zimbabwe,160,7,20,145,9,20,15,runs,Sri Lanka,field,Sikandar Raza
+26,26,Group Stage,A,Namibia,United States of America,Sinhalese Sports Club Cricket Ground,Colombo,15-Feb-26,United States of America,175,5,20,155,9,20,20,runs,Namibia,bat,Monank Patel
+27,27,Group Stage,A,India,Pakistan,Narendra Modi Stadium,Ahmedabad,15-Feb-26,India,200,6,20,148,10,19.2,52,runs,India,bat,Jasprit Bumrah
+28,28,Group Stage,D,Canada,New Zealand,Wankhede Stadium,Mumbai,16-Feb-26,New Zealand,210,3,20,180,7,20,30,runs,New Zealand,bat,Yuvraj Samra
+29,29,Group Stage,C,England,Italy,Eden Gardens,Kolkata,16-Feb-26,England,195,4,20,130,10,18,65,runs,England,bat,Will Jacks
+30,30,Group Stage,B,Australia,Sri Lanka,R. Premadasa Stadium,Colombo,16-Feb-26,Australia,175,6,20,168,8,20,7,runs,Australia,bat,Mitch Starc
+31,31,Group Stage,D,Afghanistan,United Arab Emirates,M. A. Chidambaram Stadium,Chennai,17-Feb-26,Afghanistan,182,5,20,145,9,20,37,runs,Afghanistan,bat,Ibrahim Zadran
+32,32,Group Stage,B,Ireland,Zimbabwe,Pallekele International Cricket Stadium,Kandy,17-Feb-26,Zimbabwe,168,6,20,155,8,20,13,runs,Ireland,bat,Sikandar Raza
+33,33,Group Stage,C,Nepal,West Indies,Narendra Modi Stadium,Ahmedabad,17-Feb-26,West Indies,188,5,20,140,9,20,48,runs,West Indies,bat,Andre Russell
+34,34,Group Stage,C,Scotland,Nepal,Arun Jaitley Stadium,Delhi,18-Feb-26,Scotland,155,6,20,130,10,18.4,25,runs,Scotland,bat,Richie Berrington
+35,35,Group Stage,C,Italy,West Indies,Sinhalese Sports Club Cricket Ground,Colombo,18-Feb-26,West Indies,195,4,20,115,10,17,80,runs,West Indies,bat,Rovman Powell
+36,36,Group Stage,D,Afghanistan,Canada,Wankhede Stadium,Mumbai,18-Feb-26,New Zealand,175,5,20,148,8,20,27,runs,Canada,field,Ibrahim Zadran
+37,37,Group Stage,B,Oman,Australia,Eden Gardens,Kolkata,19-Feb-26,Australia,200,3,20,145,10,18.1,55,runs,Australia,bat,David Warner
+38,38,Group Stage,A,Netherlands,India,R. Premadasa Stadium,Colombo,19-Feb-26,India,188,4,20,132,9,20,56,runs,Netherlands,field,Rohit Sharma
+39,39,Group Stage,B,Oman,Ireland,M. A. Chidambaram Stadium,Chennai,19-Feb-26,Ireland,165,5,20,145,8,20,20,runs,Oman,bat,Bilal Khan
+40,40,Group Stage,A,Pakistan,Namibia,Pallekele International Cricket Stadium,Kandy,20-Feb-26,Pakistan,180,5,20,135,10,18.3,45,runs,Pakistan,bat,Babar Azam

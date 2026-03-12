@@ -1,0 +1,9 @@
+VenueID,VenueName,City,Country,Capacity,Latitude,Longitude,Matches_Hosted,Stage_Hosted
+1,Narendra Modi Stadium,Ahmedabad,India,132000,23.0900,72.5952,7,Group Stage + Final
+2,M. A. Chidambaram Stadium,Chennai,India,39000,13.0827,80.2785,7,Group Stage + Super Eights
+3,Arun Jaitley Stadium,Delhi,India,55000,28.6353,77.2065,6,Group Stage + Super Eights
+4,Eden Gardens,Kolkata,India,66000,22.5645,88.3433,8,Group Stage + Super Eights + Semi-Final
+5,Wankhede Stadium,Mumbai,India,33000,18.9388,72.8257,8,Group Stage + Opening Ceremony
+6,R. Premadasa Stadium,Colombo,Sri Lanka,35000,6.9271,79.8612,7,Group Stage + Super Eights
+7,Sinhalese Sports Club Cricket Ground,Colombo,Sri Lanka,10000,6.9024,79.8649,7,Group Stage
+8,Pallekele International Cricket Stadium,Kandy,Sri Lanka,35000,7.2906,80.5847,6,Group Stage + Super Eights

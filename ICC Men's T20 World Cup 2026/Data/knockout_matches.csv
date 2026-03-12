@@ -1,0 +1,18 @@
+MatchID,Match_Number,Stage,Group,Team1,Team2,Venue,City,Date,Winner,Team1_Score,Team1_Wickets,Team1_Overs,Team2_Score,Team2_Wickets,Team2_Overs,Margin,Margin_Type,Toss_Winner,Toss_Decision,Player_of_Match
+41,41,Super Eights,SE1,India,West Indies,Narendra Modi Stadium,Ahmedabad,22-Feb-26,India,195,5,20,155,9,20,40,runs,India,bat,Sanju Samson
+42,42,Super Eights,SE2,England,Pakistan,M. A. Chidambaram Stadium,Chennai,22-Feb-26,England,178,6,20,160,8,20,18,runs,England,bat,Will Jacks
+43,43,Super Eights,SE1,South Africa,Australia,Eden Gardens,Kolkata,23-Feb-26,South Africa,182,6,20,170,8,20,12,runs,South Africa,bat,Aiden Markram
+44,44,Super Eights,SE2,New Zealand,Afghanistan,Pallekele International Cricket Stadium,Kandy,23-Feb-26,New Zealand,188,5,20,155,9,20,33,runs,New Zealand,bat,Rachin Ravindra
+45,45,Super Eights,SE1,India,South Africa,Arun Jaitley Stadium,Delhi,25-Feb-26,India,175,7,20,165,8,20,10,runs,South Africa,field,Jasprit Bumrah
+46,46,Super Eights,SE2,Pakistan,Sri Lanka,R. Premadasa Stadium,Colombo,25-Feb-26,Pakistan,195,6,20,170,9,20,25,runs,Pakistan,bat,Sahibzada Farhan
+47,47,Super Eights,SE1,West Indies,Australia,Wankhede Stadium,Mumbai,26-Feb-26,Australia,180,5,20,165,9,20,15,runs,Australia,bat,Glenn Maxwell
+48,48,Super Eights,SE2,England,New Zealand,M. A. Chidambaram Stadium,Chennai,26-Feb-26,England,172,6,20,158,8,20,14,runs,England,bat,Will Jacks
+49,49,Super Eights,SE2,Afghanistan,Sri Lanka,R. Premadasa Stadium,Colombo,27-Feb-26,Sri Lanka,185,6,20,178,8,20,7,runs,Sri Lanka,bat,Dasun Shanaka
+50,50,Super Eights,SE2,Pakistan,Sri Lanka,Pallekele International Cricket Stadium,Kandy,28-Feb-26,Pakistan,212,8,20,207,6,20,5,runs,Pakistan,bat,Sahibzada Farhan
+51,51,Super Eights,SE1,Zimbabwe,South Africa,Arun Jaitley Stadium,Delhi,01-Mar-26,South Africa,154,5,17.5,153,7,20,5,wickets,South Africa,field,Lungi Ngidi
+52,52,Super Eights,SE1,West Indies,India,Eden Gardens,Kolkata,01-Mar-26,India,199,5,19.2,195,4,20,5,wickets,India,bat,Hardik Pandya
+53,53,Super Eights,SE2,New Zealand,Pakistan,Pallekele International Cricket Stadium,Kandy,02-Mar-26,New Zealand,200,6,20,212,8,20,12,runs,New Zealand,field,Glenn Phillips
+54,54,Super Eights,SE1,Australia,Zimbabwe,Narendra Modi Stadium,Ahmedabad,03-Mar-26,Australia,188,4,20,140,9,20,48,runs,Australia,bat,Travis Head
+55,53,Semi-Final,,New Zealand,South Africa,Eden Gardens,Kolkata,04-Mar-26,New Zealand,173,1,12.5,169,8,20,9,wickets,New Zealand,field,Rachin Ravindra
+56,54,Semi-Final,,India,England,Narendra Modi Stadium,Ahmedabad,05-Mar-26,India,195,5,20,155,8,20,40,runs,England,field,Sanju Samson
+57,55,Final,,India,New Zealand,Narendra Modi Stadium,Ahmedabad,08-Mar-26,India,255,5,20,159,10,19,96,runs,India,bat,Jasprit Bumrah

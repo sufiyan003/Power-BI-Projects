@@ -1,0 +1,16 @@
+PlayerID,Player,Team,Role,Matches,Innings,Runs,HighScore,Average,StrikeRate,Fifties,Hundreds
+1,Sahibzada Farhan,Pakistan,Batter,7,7,383,112,63.83,160.25,1,2
+2,Tim Seifert,New Zealand,Wicketkeeper,9,9,326,89,46.57,166.32,4,0
+3,Sanju Samson,India,Wicketkeeper,5,5,321,89,80.25,199.37,3,0
+4,Aiden Markram,South Africa,All-rounder,8,8,286,95,40.85,165.31,2,0
+5,Will Jacks,England,All-rounder,8,8,226,78,32.28,145.16,1,0
+6,Abhishek Sharma,India,Batter,9,9,220,85,27.5,171.09,2,0
+7,Yuvraj Samra,Canada,Batter,4,4,214,100,53.5,150.7,1,1
+8,Rachin Ravindra,New Zealand,All-rounder,9,8,149,72,21.28,134.37,1,0
+9,Glenn Phillips,New Zealand,Batter,9,9,195,65,24.37,148.85,1,0
+10,Dasun Shanaka,Sri Lanka,All-rounder,7,7,175,80,29.16,160.09,1,0
+11,Travis Head,Australia,Batter,7,7,210,88,35,155.55,2,0
+12,Ishan Kishan,India,Wicketkeeper,9,8,195,82,27.85,162.5,2,0
+13,Ibrahim Zadran,Afghanistan,Batter,5,5,165,71,33,140.67,2,0
+14,Kusal Perera,Sri Lanka,Wicketkeeper,7,7,155,65,22.14,148.07,1,0
+15,Evin Lewis,West Indies,Batter,7,7,180,75,30,162.16,1,0
