@@ -40,6 +40,9 @@ Power BI (DirectQuery — Live Connection)
 ### Page 3 — Channel & Trends Deep Dive
 ![Trends](https://github.com/sufiyan003/Power-BI-Projects/blob/main/YouTube%20Trending%20Videos%20Analytics/Assets/trends.png)
 
+### Architecture Diagram
+![Architecture](https://github.com/sufiyan003/Power-BI-Projects/blob/main/YouTube%20Trending%20Videos%20Analytics/Assets/architecture.png)
+
 ---
 
 ## Dashboard Structure
